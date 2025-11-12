@@ -4,5 +4,6 @@ colorama>=0.4.4
 click>=8.0.0
 
 # 开发依赖
-# pytest>=6.0
-# black>=21.0
+pytest>=6.0
+black>=21.0
+flake8>=3.8.0

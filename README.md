@@ -157,6 +157,13 @@ wuziqi-api/
 └── LICENSE              # 许可证
 ```
 
+## CI/CD
+
+本项目使用 GitHub Actions 进行持续集成，包括：
+
+- 代码风格检查 (flake8)
+- 多版本 Python 测试
+
 ## 应用场景
 
 ### 🎮 游戏开发
